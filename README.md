@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kevin Kimutai</h1>
+<h1 align="center">Hey 👋, I'm 0xKimutai</h1>
 <h3 align="center">Fullstack & Web3 Developer | Smart Contract Engineer | Quant-Tech Builder | Trading & AI Enthusiast</h3>
 
 <p align="center">
@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-kimutai&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-kimutai&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xKimutai&theme=tokyonight" width="48%" />
 </p>
 
 ---
