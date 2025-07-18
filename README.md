@@ -2,8 +2,9 @@
 <h3 align="center">Fullstack & Web3 Developer | Smart Contract Engineer | Quant-Tech Builder | Trading & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Building+smart+tools+for+traders+🧠📊;Next.js+%2B+Solidity+%2B+Python+%2B+Prisma+%2B+PostgreSQL+🚀;Web3%2C+AI%2C+Blockchain%2C+Cybersecurity+%26+Quant+Finance+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Building+smart+tools+for+traders+🧠📊;Next.js+%2B+Solidity+%2B+Python+%2B+Prisma+%2B+PostgreSQL+🚀;Web3%2C+AI%2C+Blockchain%2C+Cybersecurity+%26+Quant+Finance+⚙️" alt="Typing SVG" />
 </p>
+
 
 ---
 
