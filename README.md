@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm 0xKimutai</h1>
-<h3 align="center">Fullstack Developer | Web3 Engineer |Cybersecurity Enthusiast Quant-Tech & Trading Tools Builder</h3>
+<h3 align="center">Fullstack Developer | Web3 Engineer |Cybersecurity Enthusiast |Quant-Tech & Trading Tools Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=700&lines=Fullstack+%7C+Web3+Developer;Turning+real-world+needs+into+code+that+works.;Building+tools+for+traders;Clean+Code.+Fast+Apps.+Smart+Tech." alt="Typing SVG" />
