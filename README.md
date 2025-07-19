@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm 0xKimutai</h1>
-<h3 align="center">Fullstack Developer | Web3 Engineer | Quant-Tech & Trading Tools Builder</h3>
+<h3 align="center">Fullstack Developer | Web3 Engineer |Cybersecurity Enthusiast Quant-Tech & Trading Tools Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=700&lines=Fullstack+%7C+Web3+Developer;Turning+real-world+needs+into+code+that+works.;Building+tools+for+traders;Clean+Code.+Fast+Apps.+Smart+Tech." alt="Typing SVG" />
@@ -13,6 +13,7 @@
 
 - 🌐 I specialize in fullstack web development — building fast, clean, and user-focused apps
 - 💻 I also engineer smart contracts and Web3 integrations that power modern decentralized systems
+- 🛡️ I'm passionate about cybersecurity, with a strong interest in protecting digital systems, networks, and data through hands-on ethical hacking, threat analysis, and secure coding practices.
 - 📊 I’m passionate about trading tech, data-driven tools, and quant-finance automation
 - 🧠 Always learning, shipping fast, and refining my edge as a developer & builder
 
