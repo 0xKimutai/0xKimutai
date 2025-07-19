@@ -7,39 +7,46 @@
 
 ---
 
-### 🧠 About Me
+<h3 align="center">🧠 About Me</h3>
 
-- 💻 Fullstack engineer with a sharp eye for design and secure architectures  
-- 🛡️ Passionate about cybersecurity, with hands-on focus in offensive & defensive techniques  
-- ⚙️ Always experimenting with frameworks, tools, and exploits  
-- 📚 Currently deepening skills in **Next.js, TypeScript, DevSecOps**, and **ethical hacking**
-- 🌍 Based in Kenya | 💼 Open to global collaborations
-
----
-
-### 🧰 Tech Arsenal
-
-#### Fullstack  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-#### Cybersecurity  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?logo=burpsuite&logoColor=white&style=flat)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000?style=flat)
+<p align="center">
+💻 Fullstack engineer with a sharp eye for design and secure architectures  
+<br/>🛡️ Passionate about cybersecurity, with hands-on focus in offensive & defensive techniques  
+<br/>⚙️ Always experimenting with frameworks, tools, and exploits  
+<br/>📚 Currently deepening skills in <strong>Next.js, TypeScript, DevSecOps</strong>, and <strong>ethical hacking</strong>  
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">🧰 Tech Arsenal</h3>
+
+<h4 align="center">Fullstack</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
+</p>
+
+<h4 align="center">Cybersecurity</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?logo=burpsuite&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Nmap-00457C?style=flat" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Metasploit-000?style=flat" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
@@ -79,9 +86,13 @@
 
 ---
 
-### 💬 Personal Quote
+<h3 align="center">💬 Personal Quote</h3>
 
-> *"Coding is more than logic — it’s poetry in syntax. Every line I write is a step closer to solving real-world problems."*  
-> — *0xKimutai*
+<p align="center"><em>
+“Coding is more than logic — it’s poetry in syntax. Every line I write is a step closer to solving real-world problems.”  
+<br/>— <strong>0xKimutai</strong>
+</em></p>
 
-> *"Security is not a product, it's a process." — Bruce Schneier*
+<p align="center"><em>
+“Security is not a product, it's a process.” — <strong>Bruce Schneier</strong>
+</em></p>
