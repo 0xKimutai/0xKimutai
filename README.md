@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#00ffd5;">0xKimutai</span></h1>
-<h3 align="center">Fullstack Developer · Cybersecurity Explorer · Lifelong Learner</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
+<h3 align="center">⚙️ Fullstack Developer · 🔐 Cybersecurity Explorer · 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Breaking+things+to+understand+them.;Security-first+thinking+in+development.;Fullstack+%2B+Cybersecurity+is+my+lane." alt="Typing SVG" />
@@ -10,7 +10,8 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-🔹 Fullstack Developer | 🛡️ Cybersecurity Enthusiast  
+💻 <strong>Fullstack Developer</strong> — Passionate about crafting scalable, maintainable systems with beautiful UI and robust APIs  
+<br/>🛡️ <strong>Cybersecurity Enthusiast</strong> — Focused on web app security, vulnerability analysis, and ethical hacking  
 </p>
 
 ---
@@ -18,11 +19,11 @@
 <h4 align="center">💻 Fullstack Expertise</h4>
 
 <p align="center">
-🚀 Modern Frontends – React · Next.js · Tailwind CSS  
-<br/>⚙️ Scalable Backends – Node.js · Django · REST APIs  
-<br/>🗃️ Databases – PostgreSQL · MySQL · Prisma ORM  
-<br/>🧪 Testing & Tools – Jest · Postman · Git · Vite  
-<br/>🧠 Strong understanding of clean architecture, component reusability, and responsive design
+🚀 <b>Modern Frontends</b> — React · Next.js · Tailwind CSS  
+<br/>⚙️ <b>Backends</b> — Node.js · Django · REST APIs  
+<br/>🗃️ <b>Databases</b> — PostgreSQL · MySQL · Prisma ORM  
+<br/>🧪 <b>Tools & Testing</b> — Jest · Postman · Git · Vite  
+<br/>🧠 Emphasis on clean architecture, reusability, and performance
 </p>
 
 ---
@@ -30,18 +31,17 @@
 <h4 align="center">🔐 Cybersecurity Focus</h4>
 
 <p align="center">
-🛠️ Tools – Kali Linux · Burp Suite · Wireshark · Nmap · Metasploit  
-<br/>🎯 Domains – Web App Security · Recon · Vulnerability Analysis · Ethical Hacking  
-<br/>🔍 Passionate about exploiting and patching real-world security flaws  
-<br/>🔐 Advocating for secure-by-design principles in every line of code
+🛠️ <b>Tooling</b> — Kali Linux · Burp Suite · Wireshark · Nmap · Metasploit  
+<br/>🎯 <b>Domains</b> — Web App Security · Reconnaissance · Vulnerability Analysis · Ethical Hacking  
+<br/>🔍 Passionate about identifying and mitigating real-world threats  
+<br/>🔐 Promoting secure-by-design coding practices
 </p>
-
 
 ---
 
 <h3 align="center">🧰 Tech Arsenal</h3>
 
-<h4 align="center">Fullstack</h4>
+<h4 align="center">Fullstack Stack</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
 </p>
 
-<h4 align="center">Cybersecurity</h4>
+<h4 align="center">Cybersecurity Tools</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
