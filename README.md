@@ -5,16 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Breaking+things+to+understand+them.;Security-first+thinking+in+development.;Fullstack+%2B+Cybersecurity+is+my+lane." alt="Typing SVG" />
 </p>
 
----
-
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
 💻 <strong>Fullstack Developer</strong> — Passionate about crafting scalable, maintainable systems with beautiful UI and robust APIs  
 <br/>🛡️ <strong>Cybersecurity Enthusiast</strong> — Focused on web app security, vulnerability analysis, and ethical hacking  
 </p>
-
----
 
 <h4 align="center">💻 Fullstack Expertise</h4>
 
@@ -26,8 +22,6 @@
 <br/>🧠 Emphasis on clean architecture, reusability, and performance
 </p>
 
----
-
 <h4 align="center">🔐 Cybersecurity Focus</h4>
 
 <p align="center">
@@ -36,8 +30,6 @@
 <br/>🔍 Passionate about identifying and mitigating real-world threats  
 <br/>🔐 Promoting secure-by-design coding practices
 </p>
-
----
 
 <h3 align="center">🧰 Tech Arsenal</h3>
 
@@ -65,8 +57,6 @@
   <img src="https://img.shields.io/badge/-Metasploit-000?style=flat" />
 </p>
 
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -81,8 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
----
-
 <h3 align="center">💛 Favorite Stack</h3>
 
 <p align="center">
@@ -91,21 +79,17 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
-
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
   <a href="mailto:tezKim414@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"  />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
-
----
 
 <h3 align="center">💬 Personal Quote</h3>
 
