@@ -13,53 +13,46 @@
 - 🛡️ Passionate about cybersecurity, with hands-on focus in offensive & defensive techniques  
 - ⚙️ Always experimenting with frameworks, tools, and exploits  
 - 📚 Currently deepening skills in **Next.js, TypeScript, DevSecOps**, and **ethical hacking**
-- 🌍 Based in Kenya | 💼 Open to global collaborations
 
 ---
-
-### 🧰 Tech Arsenal
-
-#### Fullstack  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-
-#### Cybersecurity  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=flat)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?logo=burpsuite&logoColor=white&style=flat)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000?style=flat)
-
----
-
-### 🔥 Developer Stats
-
-| Most Used Language | Favorite Language |
-|--------------------|-------------------|
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_border=true" alt="0xKimutai's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xKimutai&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+<h3 align="center">💛 Favorite Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+
 ---
 
-### 📫 Connect With Me
+<h3 align="center">📫 Connect With Me</h3>
 
-- 💼 [LinkedIn](https://linkedin.com/in/k-kimutai)
-- ✉️ Email: kevin.kimutai.dev@gmail.com
-- 🌐 Portfolio: Coming soon...
+<p align="center">
+  <a href="mailto:tezKim414@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
 
 ---
-
 ### 💬 Personal Quote
 
 > *"Coding is more than logic — it’s poetry in syntax. Every line I write is a step closer to solving real-world problems."*  
