@@ -1,18 +1,18 @@
 <h1 align="center">Hey 👋, I'm 0xKimutai</h1>
-<h3 align="center">Fullstack Developer | Tech Builder | Web3 & Quant-Tech Explorer</h3>
+<h3 align="center">Fullstack Developer | Web3 Engineer | Quant-Tech & Trading Tools Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Building+clean+web+apps+that+solve+real+problems+💡;Crafting+smart+tools+for+traders+🧠📊;Exploring+Web3%2C+AI%2C+Quant+Tech+%26+Automation+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Building+clean+web+apps+that+solve+real+problems+💡;Crafting+smart+tools+for+traders+🧠📊;Developing+Web3%2C+Quant+Tech+%26+Automation+⚙️" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🌐 Passionate about fullstack web development and crafting intuitive user experiences
-- 📊 Interested in data-driven systems, trading tools, and automations
-- 🧪 Exploring Web3, smart contracts, and quant-finance on the side
-- 🧠 Always learning, always shipping
+- 🌐 I specialize in fullstack web development — building fast, clean, and user-focused apps
+- 💻 I also engineer smart contracts and Web3 integrations that power modern decentralized systems
+- 📊 I’m passionate about trading tech, data-driven tools, and quant-finance automation
+- 🧠 Always learning, shipping fast, and refining my edge as a developer & builder
 
 ---
 
