@@ -10,11 +10,17 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-💻 Fullstack engineer with a sharp eye for design and secure architectures  
-<br/>🛡️ Passionate about cybersecurity, with hands-on focus in offensive & defensive techniques  
-<br/>⚙️ Always experimenting with frameworks, tools, and exploits  
-<br/>📚 Currently deepening skills in <strong>Next.js, TypeScript, DevSecOps</strong>, and <strong>ethical hacking</strong>  
+I’m <strong>0xKimutai</strong>, a results-driven Fullstack Developer and passionate Cybersecurity practitioner dedicated to building secure, scalable, and high-performance applications.
+<br /><br />
+With a strong foundation in <strong>frontend and backend development</strong>, I specialize in crafting intuitive UIs, robust APIs, and efficient database systems using modern technologies like <strong>React, Next.js, Node.js, Python, and Django</strong>.
+<br /><br />
+Beyond development, I take a <strong>security-first approach</strong> to software engineering. My interest in cybersecurity spans <em>vulnerability assessment</em>, <em>network analysis</em>, <em>secure coding practices</em>, and the use of tools like <strong>Burp Suite, Metasploit, Nmap</strong>, and <strong>Kali Linux</strong>.
+<br /><br />
+Whether building a scalable web app or analyzing a network for threats, I bring precision, curiosity, and a mindset rooted in clean architecture and system security.
+<br /><br />
+Currently focused on advancing my expertise in <strong>TypeScript ecosystems</strong>, <strong>DevSecOps practices</strong>, and <strong>ethical hacking</strong>—with a goal to create tech that is both innovative and resilient.
 </p>
+
 
 ---
 
