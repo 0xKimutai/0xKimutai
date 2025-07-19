@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-<h3 align="center">💛 Favorite Languages</h3>
+<h3 align="center">💛 Favorite Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,12 +47,16 @@
 
 <p align="center">
   <a href="mailto:tezKim414@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tezKim414@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@0xKimutai-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/0xKimutai" target="_blank">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 
