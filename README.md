@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
-<h3 align="center">⚙️ Fullstack Developer · 🔐 Cybersecurity Explorer · 📚 Lifelong Learner</h3>
+<h3 align="center">⚙️ Fullstack Developer · 🧠 AI Explorer · 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Breaking+things+to+understand+them.;Security-first+thinking+in+development.;Fullstack+%2B+Cybersecurity+is+my+lane." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Training+models+to+solve+real+problems.;AI-first+thinking+in+development.;Fullstack+%2B+AI+is+my+lane." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -11,7 +11,7 @@
 
 <p align="center">
 💻 <strong>Fullstack Developer</strong> — Passionate about crafting scalable, maintainable systems with beautiful UI and robust APIs  
-<br/>🛡️ <strong>Cybersecurity Enthusiast</strong> — Focused on web app security, vulnerability analysis, and ethical hacking  
+<br/>🤖 <strong>AI Enthusiast</strong> — Focused on applied machine learning, natural language processing, and intelligent systems  
 </p>
 
 <br/>
@@ -28,13 +28,13 @@
 
 <br/>
 
-<h3 align="center"><u>🔐 Cybersecurity Focus</u></h3>
+<h3 align="center"><u>🧠 AI Focus</u></h3>
 
 <p align="center">
-🛠️ <b>Tooling</b> — Kali Linux · Burp Suite · Wireshark · Nmap · Metasploit  
-<br/>🎯 <b>Domains</b> — Web App Security · Reconnaissance · Vulnerability Analysis · Ethical Hacking  
-<br/>🔍 Passionate about identifying and mitigating real-world threats  
-<br/>🔐 Promoting secure-by-design coding practices
+🛠️ <b>Tooling</b> — Python · Jupyter · Hugging Face · Scikit-learn · TensorFlow  
+<br/>🎯 <b>Domains</b> — NLP · Computer Vision · LLMs · Predictive Modeling  
+<br/>🔍 Passionate about building intelligent, data-driven solutions  
+<br/>🧠 Promoting ethical and impactful AI development
 </p>
 
 <br/>
@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
 </p>
 
-<h4 align="center">Cybersecurity Tools</h4>
+<h4 align="center">AI Tools</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?logo=burpsuite&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Nmap-00457C?style=flat" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Metasploit-000?style=flat" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat" />
 </p>
 
 <br/>
@@ -113,5 +113,5 @@
 </em></p>
 
 <p align="center"><em>
-“Security is not a product, it's a process.” — <strong>Bruce Schneier</strong>
+“AI is not just about automation — it's about augmentation, enabling us to do more with less.”  
 </em></p>
