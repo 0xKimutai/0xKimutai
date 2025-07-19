@@ -18,14 +18,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
-
-<h3 align="center">🧠 About Me</h3>
-
-<p align="center">
-  I'm a Full-Stack Developer building real-world apps with clean, efficient code.  
-  Also passionate about Cybersecurity — exploring vulnerabilities, secure coding, and ethical hacking.  
-</p>
 
 ---
 
@@ -40,6 +32,7 @@
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
 
 ---
 
