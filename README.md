@@ -101,7 +101,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"  />
   </a>
 </p>
 
