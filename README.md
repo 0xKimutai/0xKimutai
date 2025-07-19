@@ -1,63 +1,66 @@
-<h1 align="center">Hey 👋, I'm 0xKimutai</h1>
-<h3 align="center">Fullstack Developer | Web3 Engineer |Cybersecurity Enthusiast |Quant-Tech & Trading Tools Builder</h3>
+<h1 align="center">Hey 👋, I'm Kevin Kimutai</h1>
+<h3 align="center">Full-Stack Developer 🧑‍💻 | Cybersecurity Enthusiast 🛡️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=700&lines=Fullstack+%7C+Web3+Developer;Turning+real-world+needs+into+code+that+works.;Building+tools+for+traders;Clean+Code.+Fast+Apps.+Smart+Tech." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0AEFFF&center=true&vCenter=true&width=450&lines=Full-Stack+Engineer+Focused+on+Clean+Code;Cybersecurity+with+Hands-On+Ethical+Hacking;Tech-Driven+Problem+Solver;Driven+to+Build+%26+Secure+the+Future" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-- 🌐 I specialize in fullstack web development — building fast, clean, and user-focused apps
-- 💻 I also engineer smart contracts and Web3 integrations that power modern decentralized systems
-- 🛡️ I'm passionate about cybersecurity, with a strong interest in protecting digital systems, networks, and data through hands-on ethical hacking, threat analysis, and secure coding practices.
-- 📊 I’m passionate about trading tech, data-driven tools, and quant-finance automation
-- 🧠 Always learning, shipping fast, and refining my edge as a developer & builder
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xKimutai&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
-<h3 align="center">💛 Favorite Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
+- 🔧 I’m a self-driven Full-Stack Developer crafting real-world apps using **Next.js**, **React**, **Django**, **Node.js**, and **MySQL/PostgreSQL**
+- 🛡️ Passionate about **Cybersecurity** — from ethical hacking to secure coding and real-time threat analysis
+- 💡 Obsessed with learning new technologies, optimizing code, and building efficient, secure systems
+- 🖥️ I love spending hours on my laptop creating, breaking, fixing, and innovating
+- 🧪 Exploring DevOps, AI, and Blockchain to broaden my tech arsenal
 
 ---
 
-<h3 align="center">📫 Connect With Me</h3>
+### 🚀 Tech Stack
 
-<p align="center">
-  <a href="mailto:tezKim414@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+#### 🧩 Frameworks & Tools
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### 🔒 Cybersecurity Toolkit
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF5722?style=flat)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-black?style=flat)
 
 ---
 
-> 🧠 *"Code like a hacker. Think like a trader."*  
-> — 0xKimutai
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-kimutai&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-kimutai&theme=radical" width="450" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](#) *(coming soon)*  
+- 💼 [LinkedIn](https://linkedin.com/in/kevin-kimutai)
+- 📍 Based in Kenya | Open to global opportunities
+
+---
+
+<h4 align="center">Keep building. Keep breaking. Keep securing. 🚀</h4>
