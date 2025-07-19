@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-<h3 align="center">🛠️ Favorite Stack</h3>
+<h3 align="center">💛 Favorite Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -20,10 +20,11 @@
 
 ---
 
-<h3 align="center">🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  I explore system vulnerabilities, ethical hacking, and secure coding practices to build and defend digital infrastructure.
+  I'm a Full-Stack Developer building real-world apps with clean, efficient code.  
+  Also passionate about Cybersecurity — exploring vulnerabilities, secure coding, and ethical hacking.  
 </p>
 
 ---
