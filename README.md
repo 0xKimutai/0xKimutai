@@ -10,15 +10,30 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-I’m <strong>0xKimutai</strong>, a results-driven Fullstack Developer and passionate Cybersecurity practitioner dedicated to building secure, scalable, and high-performance applications.
-<br /><br />
-With a strong foundation in <strong>frontend and backend development</strong>, I specialize in crafting intuitive UIs, robust APIs, and efficient database systems using modern technologies like <strong>React, Next.js, Node.js, Python, and Django</strong>.
-<br /><br />
-Beyond development, I take a <strong>security-first approach</strong> to software engineering. My interest in cybersecurity spans <em>vulnerability assessment</em>, <em>network analysis</em>, <em>secure coding practices</em>, and the use of tools like <strong>Burp Suite, Metasploit, Nmap</strong>, and <strong>Kali Linux</strong>.
-<br /><br />
-Whether building a scalable web app or analyzing a network for threats, I bring precision, curiosity, and a mindset rooted in clean architecture and system security.
-<br /><br />
-Currently focused on advancing my expertise in <strong>TypeScript ecosystems</strong>, <strong>DevSecOps practices</strong>, and <strong>ethical hacking</strong>—with a goal to create tech that is both innovative and resilient.
+🔹 Fullstack Developer | 🛡️ Cybersecurity Enthusiast  
+</p>
+
+---
+
+<h4 align="center">💻 Fullstack Expertise</h4>
+
+<p align="center">
+🚀 Modern Frontends – React · Next.js · Tailwind CSS  
+<br/>⚙️ Scalable Backends – Node.js · Django · REST APIs  
+<br/>🗃️ Databases – PostgreSQL · MySQL · Prisma ORM  
+<br/>🧪 Testing & Tools – Jest · Postman · Git · Vite  
+<br/>🧠 Strong understanding of clean architecture, component reusability, and responsive design
+</p>
+
+---
+
+<h4 align="center">🔐 Cybersecurity Focus</h4>
+
+<p align="center">
+🛠️ Tools – Kali Linux · Burp Suite · Wireshark · Nmap · Metasploit  
+<br/>🎯 Domains – Web App Security · Recon · Vulnerability Analysis · Ethical Hacking  
+<br/>🔍 Passionate about exploiting and patching real-world security flaws  
+<br/>🔐 Advocating for secure-by-design principles in every line of code
 </p>
 
 
