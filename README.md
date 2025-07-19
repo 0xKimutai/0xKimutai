@@ -5,18 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Breaking+things+to+understand+them.;Security-first+thinking+in+development.;Fullstack+%2B+Cybersecurity+is+my+lane." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🧠 About Me-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>🧠 About Me</u></h3>
 
 <p align="center">
 💻 <strong>Fullstack Developer</strong> — Passionate about crafting scalable, maintainable systems with beautiful UI and robust APIs  
 <br/>🛡️ <strong>Cybersecurity Enthusiast</strong> — Focused on web app security, vulnerability analysis, and ethical hacking  
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-💻 Fullstack Expertise-00ccff?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>💻 Fullstack Expertise</u></h3>
 
 <p align="center">
 🚀 <b>Modern Frontends</b> — React · Next.js · Tailwind CSS  
@@ -26,9 +26,9 @@
 <br/>🧠 Emphasis on clean architecture, reusability, and performance
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🔐 Cybersecurity Focus-00ccff?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>🔐 Cybersecurity Focus</u></h3>
 
 <p align="center">
 🛠️ <b>Tooling</b> — Kali Linux · Burp Suite · Wireshark · Nmap · Metasploit  
@@ -37,14 +37,11 @@
 <br/>🔐 Promoting secure-by-design coding practices
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-🧰 Tech Arsenal-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Fullstack Stack-444?style=flat&logo=javascript&logoColor=F7DF1E" />
-</p>
+<h3 align="center"><u>🧰 Tech Arsenal</u></h3>
 
+<h4 align="center">Fullstack Stack</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
@@ -56,10 +53,7 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity Tools-444?style=flat&logo=kalilinux&logoColor=white" />
-</p>
-
+<h4 align="center">Cybersecurity Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=flat" />
@@ -69,9 +63,9 @@
   <img src="https://img.shields.io/badge/-Metasploit-000?style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-📊 GitHub Stats-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>📊 GitHub Stats</u></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
@@ -85,9 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-💛 Favorite Stack-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>💛 Favorite Stack</u></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -95,9 +89,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-📫 Connect With Me-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>📫 Connect With Me</u></h3>
 
 <p align="center">
   <a href="mailto:tezKim414@gmail.com">
@@ -109,9 +103,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-💬 Personal Quote-00ffc8?style=for-the-badge&labelColor=111827" />
-</p>
+<br/>
+
+<h3 align="center"><u>💬 Personal Quote</u></h3>
 
 <p align="center"><em>
 “Coding is more than logic — it’s poetry in syntax. Every line I write is a step closer to solving real-world problems.”  
