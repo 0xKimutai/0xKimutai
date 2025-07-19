@@ -47,13 +47,12 @@
 
 <p align="center">
   <a href="mailto:tezKim414@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tezKim414@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-tezKim414@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@0xKimutai-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-@0xKimutai-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
