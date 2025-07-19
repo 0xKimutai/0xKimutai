@@ -53,10 +53,6 @@
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/0xKimutai" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 
