@@ -47,13 +47,15 @@
 
 <p align="center">
   <a href="mailto:tezKim414@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/royltyRvckyreal?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/0xKimutai" target="_blank">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
