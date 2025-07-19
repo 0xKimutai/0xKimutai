@@ -2,8 +2,9 @@
 <h3 align="center">Fullstack Developer | Web3 Engineer | Quant-Tech & Trading Tools Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Building+clean+web+apps+that+solve+real+problems+💡;Crafting+smart+tools+for+traders+🧠📊;Developing+Web3%2C+Quant+Tech+%26+Automation+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3CFFEA&center=true&vCenter=true&width=500&lines=Fullstack+%7C+Web3+Developer;Building+Tools+for+Traders+%26;Clean+Code.+Fast+Apps.+Smart+Tech." alt="Typing SVG" />
 </p>
+
 
 ---
 
