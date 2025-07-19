@@ -32,7 +32,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-<p align="center"><b>📌 Favorite Language: <code>JavaScript</code></b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Favorite%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
 
 ---
 
