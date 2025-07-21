@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
+<h1 align="center">Hey, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
 <h3 align="center">⚙️ Fullstack Developer · 🧠 AI/ML Enthusiast · 🔮 Web3 Lover and Enthusiast · 📚 Lifelong Learner</h3>
 
 <p align="center">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
