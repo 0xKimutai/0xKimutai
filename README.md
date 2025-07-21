@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
-<h3 align="center">⚙️ Web App Engineer · 🧠 AI-Driven Application Engineer · 🔮 Web3 Lover and Enthusiast · 📚 Lifelong Learner</h3>
+<h3 align="center">⚙️ Web App Engineer · 🧠 AI-Driven Application Engineer · 🔐 Web Security Enthusiast · 🔮 Web3 Technologist · 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Training+models+to+solve+real+problems.;AI-first+thinking+in+development.;Fullstack+%2B+AI+is+my+lane." alt="Typing SVG" />
@@ -10,9 +10,10 @@
 <h3 align="center"><u>🧠 About Me</u></h3>
 
 <p align="center">
-💻 <strong>Web App Engineer</strong> — Passionate about crafting scalable, maintainable systems with beautiful UI and robust APIs  
-<br/>🤖 <strong>AI-Driven Application Engineer</strong> — Focused on applied machine learning, natural language processing, and intelligent systems  
-  <br/>🔮 <strong>Web3</strong> — I am deeply passionate about Web3 and driven by an unwavering enthusiasm for trading and market exploration, constantly building and experimenting with decentralized technologies — and now, I’m integrating AI into my development process to enhance strategy analysis, pattern detection, and smarter decision-making tools for traders.
+💻 <strong>Web App Engineer</strong> — I build robust, scalable systems with sleek UI and efficient APIs.  
+<br/>🤖 <strong>AI Engineer</strong> — Focused on practical machine learning, LLMs, and intelligent tooling.  
+<br/>🔐 <strong>Web Security Enthusiast</strong> — I prioritize secure-by-design practices, focusing on real-world web threats like XSS, CSRF, and injection flaws while integrating security into every step of development.  
+<br/>🔮 <strong>Web3 Developer</strong> — I'm passionate about decentralized tech and trading platforms. I integrate AI into trading strategies and smart decision tools.
 </p>
 
 <br/>
@@ -20,11 +21,12 @@
 <h3 align="center"><u>💻 Web Expertise</u></h3>
 
 <p align="center">
-🚀 <b>Modern Frontends</b> — React · Vite · Next.js · Tailwind CSS  
+🚀 <b>Frontends</b> — React · Vite · Next.js · Tailwind CSS  
 <br/>⚙️ <b>Backends</b> — Node.js · Django · REST APIs  
 <br/>🗃️ <b>Databases</b> — PostgreSQL · MySQL · Prisma ORM  
 <br/>🧪 <b>Tools & Testing</b> — Jest · Postman · Git · Vite  
-<br/>🧠 Emphasis on clean architecture, reusability, and performance
+<br/>🔐 <b>Security</b> — OWASP Top 10 · Input validation · Auth flows · HTTPS · Secure headers  
+<br/>🧠 Emphasis on performance, reusability & clean architecture
 </p>
 
 <br/>
@@ -32,10 +34,10 @@
 <h3 align="center"><u>🧠 AI Focus</u></h3>
 
 <p align="center">
-🛠️ <b>Tooling</b> — Python · Jupyter · Hugging Face · Scikit-learn · TensorFlow  
+🛠️ <b>Tooling</b> — Python · Jupyter · Hugging Face · Scikit-learn · TensorFlow · PyTorch  
 <br/>🎯 <b>Domains</b> — NLP · Computer Vision · LLMs · Predictive Modeling  
-<br/>🔍 Passionate about building intelligent, data-driven solutions  
-<br/>🧠 Promoting ethical and impactful AI development
+<br/>🔍 Building intelligent, data-driven solutions with real-world impact  
+<br/>🤖 Exploring ethical AI practices and augmentative design
 </p>
 
 <br/>
