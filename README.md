@@ -20,7 +20,7 @@
 <h3 align="center"><u>💻 Fullstack Expertise</u></h3>
 
 <p align="center">
-🚀 <b>Modern Frontends</b> — React · Next.js · Tailwind CSS  
+🚀 <b>Modern Frontends</b> — React · Vite · Next.js · Tailwind CSS  
 <br/>⚙️ <b>Backends</b> — Node.js · Django · REST APIs  
 <br/>🗃️ <b>Databases</b> — PostgreSQL · MySQL · Prisma ORM  
 <br/>🧪 <b>Tools & Testing</b> — Jest · Postman · Git · Vite  
