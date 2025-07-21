@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Temporarily%20Unavailable-gray?style=for-the-badge&logo=github" alt="GitHub Streak Fallback" />
 </p>
 
 <p align="center">
