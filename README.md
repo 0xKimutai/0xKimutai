@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
-<h3 align="center">⚙️ Fullstack Developer · 🧠 AI-Driven Application Engineer · 🔮 Web3 Lover and Enthusiast · 📚 Lifelong Learner</h3>
+<h3 align="center">⚙️ Web App Engineer · 🧠 AI-Driven Application Engineer · 🔮 Web3 Lover and Enthusiast · 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Training+models+to+solve+real+problems.;AI-first+thinking+in+development.;Fullstack+%2B+AI+is+my+lane." alt="Typing SVG" />
