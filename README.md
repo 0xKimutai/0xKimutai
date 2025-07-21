@@ -72,7 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0xKimutai&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
