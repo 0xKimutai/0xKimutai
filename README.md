@@ -72,9 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Streak-Temporarily%20Unavailable-gray?style=for-the-badge&logo=github" alt="GitHub Streak Fallback" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xKimutai&theme=tokyonight" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="50%" />
