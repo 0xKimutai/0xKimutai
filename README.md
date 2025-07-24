@@ -11,15 +11,15 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
 
-  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 180px; overflow: hidden;">
+  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 80px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" width="100%" height="100%" />
   </div>
 
-  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 180px; overflow: hidden;">
+  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 80px; overflow: hidden;">
     <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" width="100%" height="100%" />
   </div>
 
-  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 180px; overflow: hidden;">
+  <div style="border: 2px solid gold; border-radius: 8px; padding: 8px; width: 400px; height: 80px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="100%" height="100%" />
   </div>
 
