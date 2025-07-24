@@ -9,25 +9,16 @@
 
 <h3 align="center"><u>📊 GitHub Stats</u></h3>
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" 
-             height="170px" 
-             style="border: 2px solid gold; border-radius: 8px;" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" 
-             height="170px" 
-             style="border: 2px solid gold; border-radius: 8px;" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" 
-             height="170px" 
-             style="border: 2px solid gold; border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
-</p>
-
+<table align="center">
+  <tr>
+    <td bgcolor="#FFD700" style="border: 2px solid gold; border-radius: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="300px" />
+    </td>
+    <td bgcolor="#FFD700" style="border: 2px solid gold; border-radius: 8px;">
+      <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=tokyonight" width="300px" />
+    </td>
+    <td bgcolor="#FFD700" style="border: 2px solid gold; border-radius: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=tokyonight" width="300px" />
+    </td>
+  </tr>
+</table>
