@@ -2,7 +2,7 @@
 <h3 align="center">⚙️ Web App Engineer · 🧠 AI-Driven Application Engineer · 🔐 Web Security Enthusiast · 🔮 Web3 Technologist · 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+code+with+purpose.;Training+models+to+solve+real+problems.;AI-first+thinking+in+development.;Fullstack+%2B+AI+is+my+lane." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Writing+clean+Python+and+TypeScript+code.;Building+AI-powered+tools+with+Python.;Automating+trading+strategies+and+pipelines.;Smart+contract+dev+with+Solidity.;Fullstack+engineering+with+JS%2C+TS+%2B+Python." alt="Typing SVG" />
 </p>
 
 <br/>
