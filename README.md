@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm <span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
+<h1 align="center"><span style="color:#00ffd5;"><b>0xKimutai</b></span></h1>
 <h3 align="center">⚙️ Web App Engineer · 🧠 AI-Driven Application Engineer · 🔐 Web Security Enthusiast · 🔮 Web3 Technologist · 📚 Lifelong Learner</h3>
 
 <p align="center">
