@@ -11,7 +11,7 @@
 
 <table align="center">
   <tr>
-    <td bgcolor="cyan" style="border: 2px solid gold; border-radius: 8px;">
+    <td bgcolor="#FFD700"" style="border: 2px solid gold; border-radius: 8px;">
       <img src="https://github-readme-stats.vercel.app/api?username=0xKimutai&show_icons=true&theme=tokyonight&hide_title=true" width="300px" />
     </td>
     <td bgcolor="#FFD700" style="border: 2px solid gold; border-radius: 8px;">
