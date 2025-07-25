@@ -1,5 +1,5 @@
 <h1 align="center"><span style="color:#00ffd5;"><b>ghost_commit</b></span></h1>
-<h3 align="center">⚙️ Web App Engineer · 🔮 Web3 Technologist · 💻 + 🔗 Smart Contract Developer · 🧠 AI-Driven Application Engineer · 🔐 Web Security Enthusiast · 📚 Lifelong Learner</h3>
+<h3 align="center">⚙️ Web App Engineer · 🔮 Web3 Technologist · 🧠 AI-Driven Application Engineer · 🔐 Web Security Enthusiast · 📚 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Writing+clean+Python+and+TypeScript+code.;Fullstack+engineering+with+JS%2C+TS+%2B+Python.;Smart+contract+dev+with+Solidity.;Building+AI-powered+tools+with+Python.;Automating+trading+strategies+and+pipelines." alt="Typing SVG" />
