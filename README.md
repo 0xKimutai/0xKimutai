@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center"><u>📊 GitHub Stats</u></h3>
+<h3 align="center"><u>📊</u></h3>
 
 <table align="center">
   <tr>
