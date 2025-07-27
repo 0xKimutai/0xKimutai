@@ -17,7 +17,7 @@
       <img src="https://streak-stats.demolab.com?user=0xKimutai&theme=nightowl" width="300px" />
     </td>
     <td bgcolor="#FFD700" style="border: 2px solid gold; border-radius: 8px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=nightowl" width="300px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKimutai&layout=compact&theme=nightowl&hide_title=true"" width="300px" />
     </td>
   </tr>
 </table>
