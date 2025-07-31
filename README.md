@@ -2,7 +2,7 @@
 <h3 align="center">⚙️ Web App Engineer · 🔮 Web3 Technologist ·</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Writing+clean+Python+and+TypeScript+code.;Fullstack+engineering+with+JS%2C+TS+%2B+Python.;Secure+API+development+with+FastAPI+%26+Express.;Smart+contract+dev+with+Solidity.;Building+AI-powered+tools+with+Python.;Automating+trading+strategies+and+pipelines.;Fast+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Writing+clean%2C+maintainable+Python+and+TypeScript.;Building+robust+fullstack+apps+with+JS%2C+TS%2C+and+Python.;Developing+secure+APIs+with+FastAPI+and+Express.;Engineering+smart+contracts+with+Solidity+%28EVM%29.;Creating+AI-driven+tools+and+automations+in+Python.;Automating+trading+strategies+and+market+pipelines.;Delivering+fast%2C+production-ready+code." alt="Typing SVG" />
 
 <br/>
 
