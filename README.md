@@ -17,8 +17,9 @@
 
   <h2 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">🧠 About Me</h2>
 
-  <p align="center" style="color:#C0FFFF; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6;">
-    I'm <b>Kevin Kimutai</b>, known online as <code style="color:#00FFFF;">ghost_commit</code> — a passionate <b>Web3 developer</b> and <b>fullstack engineer</b> with a strong foundation in <b>Python, JavaScript/TypeScript</b>, and <b>Solidity</b>. I build smart contracts, scalable backend APIs with <b>FastAPI</b> and <b>Django REST</b>, and robust frontend apps using <b>React</b> and <b>Next.js</b>. <br/><br/>
+<p align="center" style="color:#C0FFFF; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6;">
+  I'm <b>Kevin Kimutai</b>, also known in the developer space as <code style="color:#00FFFF;">ghost_commit</code> — a dedicated <b>Web3 engineer</b> and <b>full-stack developer</b> with a solid command of <b>Python</b>, <b>JavaScript/TypeScript</b>, and <b>Solidity</b>. I specialize in designing and developing secure smart contracts for EVM-compatible chains, building scalable backend systems with <b>Express.js</b> and <b>Django REST Framework</b>, and crafting performant frontend applications using <b>React</b>, <b>Vite</b>, and <b>Next.js</b>.
+</p>
     
     I'm deeply invested in crafting clean, secure, and production-ready systems, whether it's building DeFi tools, AI-enhanced web apps, or automating trading workflows. My curiosity drives me to blend technologies — from <b>smart contracts</b> to <b>AI/ML models</b> — always optimizing for impact, speed, and elegance. <br/><br/>
 
