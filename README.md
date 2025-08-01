@@ -16,15 +16,24 @@
   <br/>
 
   <h2 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">🧠 About Me</h2>
-
-<p align="center" style="color:#C0FFFF; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.6;">
-  I'm <b>Kevin</b>, also known in the developer space as <code style="color:#00FFFF;">ghost_commit</code> — a dedicated <b>Web3 engineer</b> and <b>full-stack developer</b> with a solid command of <b>Python</b>, <b>JavaScript/TypeScript</b>, and <b>Solidity</b>. I specialize in designing and developing secure smart contracts for EVM-compatible chains, building scalable backend systems with <b>Express.js</b> and <b>Django REST Framework</b>, and crafting performant frontend applications using <b>React</b>, <b>Vite</b>, and <b>Next.js</b>.
-</p>
-    
-    I'm deeply invested in crafting clean, secure, and production-ready systems, whether it's building DeFi tools, AI-enhanced web apps, or automating trading workflows. My curiosity drives me to blend technologies — from smart contracts to AI/ML model — always optimizing for impact, speed, and elegance.
-
-    I’ve been coding since 2022, and I’m currently sharpening my backend and blockchain engineering skills while building real-world tools and contributing to open-source projects. You'll usually find me deep in code, running experiments, or creating bots that turn ideas into working systems.
+  <p align="center" style="color:#00ffff; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
+    I'm <b>Kevin</b>, known in the developer space as <code style="color:#00ffff;">ghost_commit</code> — a passionate <b>Web3     engineer</b> and <b>full-stack developer</b> fluent in <b>Python</b>, <b>JavaScript/TypeScript</b>, and <b>Solidity</b>.
+    <br><br>
+    I specialize in:
+    <ul style="list-style-type: disc; text-align: left; max-width: 600px; margin: 0 auto;">
+      <li>Designing and auditing secure smart contracts for EVM-compatible chains</li>
+      <li>Building scalable backend systems using <b>Express.js</b> and <b>Django REST Framework</b></li>
+      <li>Crafting fast, responsive frontends with <b>React</b>, <b>Vite</b>, and <b>Next.js</b></li>
+    </ul>
+  </p>
   
+  <p align="center" style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
+    I'm deeply invested in building clean, secure, and production-ready systems — from DeFi protocols and AI-enhanced apps to     automated trading tools.
+    <br><br>
+    Since I began coding in <b>2022</b>, my curiosity has driven me to blend emerging technologies, optimize for performance       and impact, and contribute to open-source tools that solve real problems.
+    <br><br>
+    Most days, you’ll find me buried in code, running experiments, or crafting bots that bring wild ideas to life.
+  </p>
 
   <br/>
 
