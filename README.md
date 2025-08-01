@@ -27,7 +27,7 @@
 
   <br/>
 
-  <h3 align="center"><u style="color:#00FFFF;">📊</u></h3>
+ <!--- <h3 align="center"><u style="color:#00FFFF;">📊</u></h3>
 
   <table align="center" style="background-color:transparent;">
     <tr>
@@ -44,3 +44,4 @@
   </table>
 
 </body>
+--->
