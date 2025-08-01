@@ -21,10 +21,10 @@
   I'm <b>Kevin</b>, also known in the developer space as <code style="color:#00FFFF;">ghost_commit</code> — a dedicated <b>Web3 engineer</b> and <b>full-stack developer</b> with a solid command of <b>Python</b>, <b>JavaScript/TypeScript</b>, and <b>Solidity</b>. I specialize in designing and developing secure smart contracts for EVM-compatible chains, building scalable backend systems with <b>Express.js</b> and <b>Django REST Framework</b>, and crafting performant frontend applications using <b>React</b>, <b>Vite</b>, and <b>Next.js</b>.
 </p>
     
-    I'm deeply invested in crafting clean, secure, and production-ready systems, whether it's building DeFi tools, AI-enhanced web apps, or automating trading workflows. My curiosity drives me to blend technologies — from <b>smart contracts</b> to <b>AI/ML models</b> — always optimizing for impact, speed, and elegance. <br/><br/>
+    I'm deeply invested in crafting clean, secure, and production-ready systems, whether it's building DeFi tools, AI-enhanced web apps, or automating trading workflows. My curiosity drives me to blend technologies — from smart contracts to AI/ML model — always optimizing for impact, speed, and elegance.
 
     I’ve been coding since 2022, and I’m currently sharpening my backend and blockchain engineering skills while building real-world tools and contributing to open-source projects. You'll usually find me deep in code, running experiments, or creating bots that turn ideas into working systems.
-  </p>
+  
 
   <br/>
 
