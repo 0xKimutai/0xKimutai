@@ -35,7 +35,8 @@
     Most days, you’ll find me buried in code, running experiments, or crafting bots that bring wild ideas to life.
   </p>
 
-  <br/>
+  <br/> 
+  --->
 
   <h3 align="center"><u style="color:#00FFFF;">📊</u></h3>
 
@@ -54,4 +55,3 @@
   </table>
 
 </body>
---->
