@@ -14,7 +14,7 @@
   </p>
 
   <br/>
-
+<!---
   <h2 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">🧠 About Me</h2>
   <p align="center" style="color:#00ffff; max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
     I'm <b>Kevin</b>, known in the developer space as <code style="color:#00ffff;">ghost_commit</code> — a passionate <b>Web3     engineer</b> and <b>full-stack developer</b> fluent in <b>Python</b>, <b>JavaScript/TypeScript</b>, and <b>Solidity</b>.
@@ -30,14 +30,14 @@
   <p align="center" style="max-width: 800px; margin: auto; font-size: 16px; line-height: 1.7;">
     I'm deeply invested in building clean, secure, and production-ready systems — from DeFi protocols and AI-enhanced apps to     automated trading tools.
     <br><br>
-    Since I began coding in <b>2022</b>, my curiosity has driven me to blend emerging technologies, optimize for performance       and impact, and contribute to open-source tools that solve real problems.
+    Since I began coding, my curiosity has driven me to blend emerging technologies, optimize for performance       and impact, and contribute to open-source tools that solve real problems.
     <br><br>
     Most days, you’ll find me buried in code, running experiments, or crafting bots that bring wild ideas to life.
   </p>
 
   <br/>
 
- <!--- <h3 align="center"><u style="color:#00FFFF;">📊</u></h3>
+  <h3 align="center"><u style="color:#00FFFF;">📊</u></h3>
 
   <table align="center" style="background-color:transparent;">
     <tr>
