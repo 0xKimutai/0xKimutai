@@ -9,9 +9,9 @@
     ⚙️ Web App Engineer · 🔮 Web3 Technologist ·
   </h3>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Writing+clean%2C+maintainable+Python+and+TypeScript.;Fullstack+engineering+with+JavaScript%2C+TypeScript%2C+and+Python.;Developing+secure+APIs+with+FastAPI%2C+Django+REST%2C+and+Express.;Smart+contract+development+on+EVM+with+Solidity.;Building+AI-powered+tools+and+automations+in+Python.;Automating+trading+strategies+and+data+pipelines.;Delivering+fast%2C+production-grade+solutions.&color=00FFFF&background=0D1117" alt="Typing SVG" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Writing+clean%2C+maintainable+code.;Designing+scalable+and+efficient+systems.;Building+secure+and+reliable+applications.;Developing+innovative+and+practical+solutions.;Automating+processes+and+optimizing+workflows.;Crafting+intuitive+and+user-friendly+experiences.;Delivering+high-quality%2C+production-grade+software.&color=00FFFF&background=0D1117" alt="Typing SVG" />
+</p>
 
   <br/>
 <!---
