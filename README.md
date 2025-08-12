@@ -6,8 +6,8 @@
   </h1>
 
   <h3 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">
-    ⚙️ Web App Engineer · 🔮 Web3 Technologist ·
-  </h3>
+    ⚙️ Enterprise Software Engineer · 🔮 Blockchain Technologist ·
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Writing+clean%2C+maintainable+code.;Designing+scalable+and+efficient+systems.;Building+secure+and+reliable+applications.;Developing+innovative+and+practical+solutions.;Automating+processes+and+optimizing+workflows.;Crafting+intuitive+and+user-friendly+experiences.;Delivering+high-quality%2C+production-grade+software.&color=00FFFF&background=0D1117" alt="Typing SVG" />
