@@ -31,4 +31,17 @@
     </tr>
   </table>
 
+   <h3 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">
+    🎉 Fun Facts About Me
+  </h3>
+
+  <ul style="max-width: 600px; margin: auto; list-style: none; padding: 0; color:#00FFFF; font-size:16px;">
+    <li>🍕 Can debug code faster than I can decide on a pizza topping.</li>
+    <li>☕ My blood type might actually be "Java".</li>
+    <li>🎮 Probably spent more hours on strategy games than on actual strategies.</li>
+    <li>🐱 Cats seem to trust me way too quickly… I suspect they think I’m one of them.</li>
+    <li>📈 I once tried to explain blockchain at a family dinner — now I’m not invited to explain *anything* anymore.</li>
+    <li>🌍 Dream job: remote work… preferably from Mars.</li>
+  </ul>
+
 </body>
