@@ -37,11 +37,11 @@
 
   <ul style="max-width: 600px; margin: auto; list-style: none; padding: 0; color:#00FFFF; font-size:16px;">
     <li>🍕 Can debug code faster than I can decide on a pizza topping.</li>
-    <li>☕ My blood type might actually be "Java".</li>
+    <li>☕ My blood type might actually be "Solidity".</li>
     <li>🎮 Probably spent more hours on strategy games than on actual strategies.</li>
-    <li>🐱 Cats seem to trust me way too quickly… I suspect they think I’m one of them.</li>
+    <li>🐕 Puppies seem to trust me way too quickly… I suspect they think I’m one of them.</li>
     <li>📈 I once tried to explain blockchain at a family dinner — now I’m not invited to explain *anything* anymore.</li>
-    <li>🌍 Dream job: remote work… preferably from Mars.</li>
+    <li>🛥️ Dream job: laying on a yacht, watching bad bitches party while mine is right beside me. 😏</li>
   </ul>
 
 </body>
