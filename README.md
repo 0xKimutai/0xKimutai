@@ -35,7 +35,7 @@
     🎉 Fun Facts About Me
   </h3>
   <p align="center" style="max-width: 700px; margin: auto; color:#00FFFF; font-size:16px; font-style:italic;">
-      I can debug code faster than I can decide on a pizza topping, and my blood type might actually be Java. 
+      I can debug code faster than I can decide on a pizza topping, and my blood type might actually be Solidity. 
       I’ve probably spent more hours on strategy games than on actual strategies, cats trust me way too quickly, 
       and I once tried explaining blockchain at a family dinner — now I’m banned from explaining anything. 
       My dream job? Either remote work from Mars 🌍 or, uncensored version: laying on a yacht 🛥️, 
