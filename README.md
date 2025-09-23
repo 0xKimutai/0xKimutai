@@ -38,8 +38,8 @@
       I can debug code faster than I can decide on a pizza topping, and my blood type might actually be Solidity. 
       I’ve probably spent more hours on strategy games than on actual strategies, cats trust me way too quickly, 
       and I once tried explaining blockchain at a family dinner — now I’m banned from explaining anything. 
-      My dream job? Either remote work from Mars 🌍 or, uncensored version: laying on a yacht 🛥️, 
-      watching bad bitches party while mine is right beside me. 😏
+      <!-- My dream job? Either remote work from Mars 🌍 or, uncensored version: laying on a yacht 🛥️, 
+      watching bad bitches party while mine is right beside me. 😏 -->
   </p>
 
 </body>
