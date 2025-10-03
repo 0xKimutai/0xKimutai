@@ -6,7 +6,7 @@
   </h1>
 
   <h3 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">
-    ⚙️ Enterprise Software Engineer · 🔮 Blockchain Technologist ·
+    ⚙️ Enterprise Software Engineer · 🔮 Blockchain Technologis ·
 </h3>
 
 <p align="center">
