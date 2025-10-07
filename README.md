@@ -21,15 +21,5 @@ From tangled logic to flawless flow, I make the impossible compile.
 - **AI constructs** that learn, adapt, and glitch beautifully  
 
 ---
-
-### 🕶️ The Code Philosophy
-> “Perfection is an illusion — harmony is engineered.”
-
-Every commit, a calibration of chaos.  
-Every bug, a timeline glitch waiting to be rewritten.
-
----
-
-### 🔗 Coordinates
-🌐 [0xKimutai](https://github.com/0xKimutai)  
 📡 Currently syncing with the mainframe...
+--> Below are my repos....
