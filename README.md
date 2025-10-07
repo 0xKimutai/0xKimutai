@@ -7,19 +7,5 @@
 </h3>
 
 ---
-
-### 🧩 Who Am I
-I don’t just write code — I **bend time** with it.  
-Some build systems. I **restructure timelines**.  
-From tangled logic to flawless flow, I make the impossible compile.
-
----
-
-### ⚡ What I Touch
-- **Blockchain spells** forged in Solidity  
-- **Backend frameworks** that hum in silence  
-- **AI constructs** that learn, adapt, and glitch beautifully  
-
----
 📡 Currently syncing with the mainframe...
 
