@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#00FFFF; text-shadow:0 0 10px #00FFFF; font-family:'JetBrains Mono', monospace;">
-  ⚙️ Temporal Mechanic · 🔮 Orchestrating Chaos in Code & Cosmos
+  ⚙️ Temporal Mechanic ·
 </h3>
 
 ---
