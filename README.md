@@ -5,9 +5,9 @@
     <span style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;"><b>ghost_commit</b></span>
   </h1>
 
-  <h3 align="center" style="color:#00FFFF; text-shadow: 0 0 6px #00FFFF;">
-    ⚙️ Enterprise Software Engineer · 🔮 Blockchain Technologist ·
-</h3>
+ <h3 align="center" style="color:#00FFFF; text-shadow:0 0 10px #00FFFF; font-family:'Fira Code', monospace;">
+  ⚙️ Temporal Mechanic · 🔮 Orchestrating Chaos in Code & Cosmos
+ </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Writing+clean%2C+maintainable+code.;Designing+scalable+and+efficient+systems.;Building+secure+and+reliable+applications.;Developing+innovative+and+practical+solutions.;Automating+processes+and+optimizing+workflows.;Crafting+intuitive+and+user-friendly+experiences.;Delivering+high-quality%2C+production-grade+software.&color=00FFFF&background=0D1117" alt="Typing SVG" />
